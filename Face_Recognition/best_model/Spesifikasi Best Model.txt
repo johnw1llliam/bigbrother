@@ -1,0 +1,5 @@
+Face Recognition Best Model Saat ini. 
+Spesifikasi: 
+Facenet Vektor 512
+Pelatihan dataset menggunakan Dataset Artis Pins dari Kaggle. 
+Pengenalan muka dideteksi dan disimpan dalam bentuk JSON.
