@@ -12,7 +12,6 @@ This project provides a curated set of computer vision models designed specifica
 - Object Detection (People): Detecting and tracking individuals.
 - Object Detection (Vehicles): Detecting and tracking cars, trucks, motorcycles, etc.
 - Object Detection (Security Threats): Identifying potential security threats like weapons.
-- Multi-Stream Detection: Processing and analyzing video from multiple camera feeds simultaneously.
 - Motion Detection: Detecting any motion in a scene.
 
 ⚠️ Anomaly & Activity Detection
@@ -22,7 +21,7 @@ This project provides a curated set of computer vision models designed specifica
 - Running Detection: Identifying individuals who are running.
 - Loitering Detection: Flagging individuals who remain in an area for an unusual amount of time.
 - Fighting Detection: Detecting physical altercations between people.
-- Crowd Anomaly: Identifying unusual patterns or behaviors in a crowd.
+- Crowd Detection: Identifying crowd.
 - General Video Anomaly: A general-purpose model for detecting any unusual event in a video feed.
 
 📈 Analytics & Counting
@@ -33,4 +32,3 @@ This project provides a curated set of computer vision models designed specifica
 - Customer Emotion Recognition: Analyzing facial expressions to gauge customer emotions (e.g., happy, neutral, upset).
 - Product Interaction: Recognizing how customers interact with products on a shelf.
 - Assistance Gesture Alert: Detecting gestures (like a raised hand) to signal a need for assistance.
-- VIP/Blacklisted Recognition: Identifying known individuals (e.g., VIP customers or blacklisted persons) upon entry.
